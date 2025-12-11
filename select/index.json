@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "リインカーネーション",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-11T05:39:53.457121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リインカーネーション",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_リインカーネーション_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キラリ覚醒☆リインカーネーション",
+      "artist": "青葉りんか (厚木那奈美)",
+      "has_synced": true,
+      "path": "select/02_キラリ覚醒☆リインカーネーション_青葉りんか_(厚木那奈美).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラリ覚醒☆リインカーネーション",
+      "artist": "青葉りんか (厚木那奈美)",
+      "has_synced": false,
+      "path": "select/03_キラリ覚醒☆リインカーネーション_青葉りんか_(厚木那奈美).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リインカーネーション",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_リインカーネーション_ロクデナシ.txt"
+    }
+  ]
+}
